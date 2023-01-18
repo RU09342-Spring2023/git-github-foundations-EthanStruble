@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub
 
 Name: Ethan Struble
+L+Ratio
 
 ## 🤓 Course overview and learning outcomes
 
